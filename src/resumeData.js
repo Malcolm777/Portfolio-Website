@@ -65,7 +65,7 @@ let resumeData = {
 
       }
     ],
-    "skillsDescription":"Java, JavaScript, HTML5, CSS3, BootStrap, SQL, PostgreSQL, AWS Certified Cloud Practitioner",
+    "skillsDescription":"Java, JavaScript, NodeJS, HTML5, CSS3, BootStrap, SQL, PostgreSQL, AWS Certified Cloud Practitioner",
     /*"skills":[
       {
         "skillname":"HTML5"
