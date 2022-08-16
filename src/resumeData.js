@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I'm a senior computer science student at the University of Maryland, Baltimore County. At university, I've completed projects in C++, Java, and Python. This past summer 2022, I interned at AIG as a technology analyst intern, working on the application security team. I also supported a full-stack engineer with defect fixes and creating RESTful applications in Java, Spring, and SQL/PostgreSQL. Currently, I'm in my last semester virtually, on a half-time schedule, so I'm searching for back-end dev and/or full-stack dev opportunities. I love to automate and create products that make life easier.",
+    "aboutme":"I'm a senior computer science student at the University of Maryland, Global Campus. After completing my bachelor's in Visual Arts, I completed 2 years  of computer science at UMBC, creating projects in C++, Java, and Python. For passion projects, I mainly work with HTML/CSS, JavaScript, and NodeJS. This past summer 2022, I interned at AIG as a technology analyst intern, working on the application security team. I also supported a full-stack engineer with defect fixes and creating RESTful applications in Java, Spring Boot, and mySQL/PostGreSQL. I love to automate and create systems that make life easier.",
     "address":"Washington, D.C. | Houston, Texas",
     "website":"https://www.linkedin.com/in/malcolm-gilbert-b0a820149/",
     "education":[
