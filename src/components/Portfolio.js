@@ -168,7 +168,7 @@ export default class Porfolio extends Component {
                         <div className = 'pt-8 text-center'>
                         <a href = "https://malcolm777.github.io/nexus-clothing/" target = "_blank">
                                 <button className = 'text-center rounded-lg px-4 py-3 m-2 bg-white text-pink-600 font-bold text-lg'>
-                                    Demo (click the home button)
+                                    Demo
                                 </button>
                         </a>
                         <a href = "https://github.com/Malcolm777/nexus-clothing " target = "_blank">
