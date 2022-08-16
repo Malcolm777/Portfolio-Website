@@ -29,30 +29,7 @@ export default class Porfolio extends Component {
             className = 'grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
 
                 {/*grid items */}
-                <div 
-                style = {{backgroundImage:`url(${eComm})`}}
-                className = 'shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                    
-                    {/*Hover effects*/}
-                    <div className = 'opacity-0 group-hover:opacity-100'> 
-                        <span className = 'text-2xl font-bold text-pink tracking-wider'>
-                            React JS Application 
-
-                        </span>
-                        <div className = 'pt-8 text-center'>
-                        <a href = "https://malcolm777.github.io/nexus-clothing/" target = "_blank">
-                                <button className = 'text-center rounded-lg px-4 py-3 m-2 bg-white text-pink-600 font-bold text-lg'>
-                                    Demo (click the home button)
-                                </button>
-                        </a>
-                        <a href = "https://github.com/Malcolm777/nexus-clothing " target = "_blank">
-                                <button className = 'text-center rounded-lg px-4 py-3 m-2 bg-white text-pink-600 font-bold text-lg'>
-                                    Code
-                                </button>
-                        </a>
-                        </div>
-                    </div>
-                </div>
+                
                 {/*grid items */}
                 <div 
                 style = {{backgroundImage:`url(${stockViz})`}}
@@ -172,6 +149,30 @@ export default class Porfolio extends Component {
                         </a>
                         <a href = "https://github.com/Malcolm777/CitiesDataStructures" target = "_blank">
                                 <button className = 'text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                                    Code
+                                </button>
+                        </a>
+                        </div>
+                    </div>
+                </div>
+                <div 
+                style = {{backgroundImage:`url(${eComm})`}}
+                className = 'shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    
+                    {/*Hover effects*/}
+                    <div className = 'opacity-0 group-hover:opacity-100'> 
+                        <span className = 'text-2xl font-bold text-pink tracking-wider'>
+                            React JS Application 
+
+                        </span>
+                        <div className = 'pt-8 text-center'>
+                        <a href = "https://malcolm777.github.io/nexus-clothing/" target = "_blank">
+                                <button className = 'text-center rounded-lg px-4 py-3 m-2 bg-white text-pink-600 font-bold text-lg'>
+                                    Demo (click the home button)
+                                </button>
+                        </a>
+                        <a href = "https://github.com/Malcolm777/nexus-clothing " target = "_blank">
+                                <button className = 'text-center rounded-lg px-4 py-3 m-2 bg-white text-pink-600 font-bold text-lg'>
                                     Code
                                 </button>
                         </a>
