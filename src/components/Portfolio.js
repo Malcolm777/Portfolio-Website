@@ -40,9 +40,9 @@ export default class Porfolio extends Component {
 
                         </span>
                         <div className = 'pt-8 text-center'>
-                        <a href = "https://9eaf-2601-2c6-5000-7fb0-8956-abf1-7e22-2c47.ngrok.io">
+                        <a href = "https://malcolm777.github.io/nexus-clothing/" target = "_blank">
                                 <button className = 'text-center rounded-lg px-4 py-3 m-2 bg-white text-pink-600 font-bold text-lg'>
-                                    Demo 
+                                    Demo (click the home button)
                                 </button>
                         </a>
                         <a href = "https://github.com/Malcolm777/nexus-clothing " target = "_blank">
