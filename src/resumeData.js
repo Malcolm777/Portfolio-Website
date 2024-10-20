@@ -22,7 +22,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Malcolm Gilbert is a software engineer, with 2 years of experience in the financial services industry. In Wealth and Investment Management, Malcolm has created features for brokerage, investment, and wealth products for Wells Fargo Advisors and the Private Bank, writing code in Java, TypeScript, and React.",
-    "address":"Washington, D.C. | Houston, Texas",
+    "address":"Charlotte, NC",
     "website":"https://www.linkedin.com/in/malcolm-gilbert-b0a820149/",
     "education":[
       {
